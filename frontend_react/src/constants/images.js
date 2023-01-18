@@ -30,6 +30,8 @@ import logo1 from "../assets/SelfPicture1.png";
 import logo2 from "../assets/SelfPicture2.png";
 import LogoAlex from "../assets/LogoAlex.png";
 import RobertoLogo from "../assets/RobertoLogo.png";
+import beldiman from "../assets/beldiman 2.png";
+import beldimanSvg from "../assets/beldiman 2.svg";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -47,6 +49,8 @@ export default {
   cpp,
   css,
   figma,
+  beldiman,
+  beldimanSvg,
   flutter,
   git,
   graphql,
