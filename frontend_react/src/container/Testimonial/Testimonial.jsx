@@ -34,7 +34,7 @@ const Testimonial = () => {
         <>
           <div className="app__testimonial-item app__flex">
             <img src={urlFor(test.imgurl)} alt="testimonials" />
-            <div className="app__testimonials-content">
+            <div className="app__testimonial-content">
               <p className="p-text">{test.feedback}</p>
               <div>
                 <h4 className="bold-text">{test.name}</h4>
@@ -42,7 +42,7 @@ const Testimonial = () => {
               </div>
             </div>
           </div>
-          <div className="app__testimonials app__flex">
+          <div className="app__testimonial-btns app__flex">
             <div
               className="app__flex"
               onClick={() =>
